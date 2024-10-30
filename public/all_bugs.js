@@ -60,7 +60,7 @@ export const bugs = {
       "name": "Luna Moth",
       "image": "https://bugwoodcloud.org/images/384x256/1380210.jpg",
       "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=1380210",
-      "novelty": 1.0,
+      "novelty": 0.92,
       "notes": "Don't let your cat get it!"
     },
     {
@@ -104,6 +104,27 @@ export const bugs = {
       "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=1386032",
       "novelty": 0.23,
       "notes": "Loves to swim"
+    },
+    {
+      "name": "European Hornet",
+      "image": "https://bugwoodcloud.org/images/384x256/5436350.jpg",
+      "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=5436350",
+      "novelty": 0.95,
+      "notes": "Likes to attack other nests"
+    },
+    {
+      "name": "Mud Dauber",
+      "image": "https://bugwoodcloud.org/images/384x256/5498194.jpg",
+      "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=5498194",
+      "novelty": 0.25,
+      "notes": "Very nice and friendly"
+    },
+    {
+      "name": "Yellowjacket",
+      "image": "https://bugwoodcloud.org/images/384x256/5614100.jpg",
+      "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=5614100",
+      "novelty": 0.2,
+      "notes": "A big fat wasp"
     },
   ]
 }
