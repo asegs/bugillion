@@ -73,9 +73,37 @@ export const bugs = {
     {
       "name": "Jumping Spider",
       "image": "https://bugwoodcloud.org/images/384x256/1368024.jpg",
-      "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=1368024imgnum=5561256",
+      "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=1368024",
       "novelty": 0.3,
       "notes": "Smarter than a dog!"
+    },
+    {
+      "name": "Yellow Sac Spider",
+      "image": "https://bugwoodcloud.org/images/384x256/1252103.jpg",
+      "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=1252103",
+      "novelty": 0.29,
+      "notes": "Kill on sight, loves cars"
+    },
+    {
+      "name": "Grass Spider",
+      "image": "https://bugwoodcloud.org/images/384x256/2154093.jpg",
+      "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=2154093",
+      "novelty": 0.25,
+      "notes": "Makes those little tunnels in your lawn"
+    },
+    {
+      "name": "Wolf Spider",
+      "image": "https://bugwoodcloud.org/images/384x256/5402018.jpg",
+      "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=5402018",
+      "novelty": 0.5,
+      "notes": "Has no friends and family"
+    },
+    {
+      "name": "Devil's Coach Horse",
+      "image": "https://bugwoodcloud.org/images/384x256/1386032.jpg",
+      "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=1386032",
+      "novelty": 0.23,
+      "notes": "Loves to swim"
     },
   ]
 }
