@@ -1,0 +1,52 @@
+.shimmer {
+    color: grey;
+    display: inline-block;
+    mask: linear-gradient(-60deg, #000 30%, #0005, #000 70%) right/350% 100%;
+    animation: shimmer 1.5s infinite;
+    font-size: 50px;
+}
+
+@keyframes shimmer {
+    100% {
+        mask-position: left
+    }
+}
+
+.glow {
+    box-shadow: 0 0 100px gold;
+}
+
+.glow-white {
+    box-shadow: 0 0 100px white;
+}
+
+.glow-blue {
+    box-shadow: 0 0 100px deepskyblue;
+}
+
+body {
+    background-color: black;
+}
+
+.tile {
+    background-color: black;
+    border: solid greenyellow 1px;
+    padding: 25px;
+}
+
+.flippy:hover {
+    transform: rotateY(3420deg);
+    transition-duration: 4000ms;
+}
+
+p {
+    color: white;
+    font-family: Garuda, serif;
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
