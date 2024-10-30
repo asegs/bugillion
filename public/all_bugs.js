@@ -62,6 +62,20 @@ export const bugs = {
       "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=1380210",
       "novelty": 1.0,
       "notes": "Don't let your cat get it!"
-    }
+    },
+    {
+      "name": "Stink Bug",
+      "image": "https://bugwoodcloud.org/images/384x256/5561256.jpg",
+      "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=5561256",
+      "novelty": 0.1,
+      "notes": "They don't really stink"
+    },
+    {
+      "name": "Jumping Spider",
+      "image": "https://bugwoodcloud.org/images/384x256/1368024.jpg",
+      "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=1368024imgnum=5561256",
+      "novelty": 0.3,
+      "notes": "Smarter than a dog!"
+    },
   ]
 }
