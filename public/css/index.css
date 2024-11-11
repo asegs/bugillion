@@ -35,8 +35,8 @@ body {
 }
 
 .flippy:hover {
-    transform: rotateY(3420deg);
-    transition-duration: 4000ms;
+    transform: rotateY(20deg);
+    transition-duration: 400ms;
 }
 
 p {
