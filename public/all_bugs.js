@@ -95,7 +95,7 @@ export const bugs = {
       "name": "Wolf Spider",
       "image": "https://bugwoodcloud.org/images/384x256/5402018.jpg",
       "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=5402018",
-      "novelty": 0.5,
+      "novelty": 0.58,
       "notes": "Has no friends and family"
     },
     {
@@ -109,7 +109,7 @@ export const bugs = {
       "name": "European Hornet",
       "image": "https://bugwoodcloud.org/images/384x256/5436350.jpg",
       "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=5436350",
-      "novelty": 0.95,
+      "novelty": 0.98,
       "notes": "Likes to attack other nests"
     },
     {
@@ -126,5 +126,68 @@ export const bugs = {
       "novelty": 0.2,
       "notes": "A big fat wasp"
     },
+    {
+      "name": "Water Strider",
+      "image": "https://bugwoodcloud.org/images/384x256/2106053.jpg",
+      "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=2106053",
+      "novelty": 0.28,
+      "notes": "Cannot swim"
+    },
+    {
+      "name": "Furrowed Orb Weaver",
+      "image": "http://cirrusimage.com/wp-content/uploads/Furrow-Spider-1280-x-960.jpg",
+      "page": "https://www.cirrusimage.com/spider-furrow-orbweaver/",
+      "novelty": 0.33,
+      "notes": "Likes bright lights"
+    },
+    {
+      "name": "Pumpkin Spider",
+      "image": "https://bugwoodcloud.org/images/384x256/1485026.jpg",
+      "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=1485026",
+      "novelty": 0.4,
+      "notes": "Has a nook where she goes back to eat"
+    },
+    {
+      "name": "Green Assassin Bug",
+      "image": "https://bugwoodcloud.org/images/384x256/5402432.jpg",
+      "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=5402432",
+      "novelty": 0.48,
+      "notes": "Babies are see through"
+    },
+    {
+      "name": "Stretch Spider",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Long-jawed_orb-weaver_spider_%28Tetragnatha_montana%29_female.jpg/1280px-Long-jawed_orb-weaver_spider_%28Tetragnatha_montana%29_female.jpg",
+      "page": "https://en.wikipedia.org/wiki/Tetragnatha_montana",
+      "novelty": 0.42,
+      "notes": "Long and skinny"
+    },
+    {
+      "name": "Ichneumon Wasp",
+      "image": "https://extension.msstate.edu/sites/default/files/newsletter-images/bug%E2%80%99s-eye-view/wasp.png",
+      "page": "https://extension.msstate.edu/newsletters/bug%E2%80%99s-eye-view/2021/black-giant-ichneumon-wasp-vol-7-no-30",
+      "novelty": 0.95,
+      "notes": "Doesn't sting"
+    },
+    {
+      "name": "Cicada",
+      "image": "https://bugwoodcloud.org/images/384x256/5425628.jpg",
+      "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=5425628",
+      "novelty": 0.75,
+      "notes": "Comes out every year"
+    },
+    {
+      "name": "Bee Mimic Robber Fly",
+      "image": "https://bugwoodcloud.org/images/384x256/1453200.jpg",
+      "page": "https://www.insectimages.org/browse/detail.cfm?imgnum=1453200",
+      "novelty": 0.72,
+      "notes": "If it looks like a bee, but you can tell something is off, it's this"
+    },
+    {
+      "name": "Phantom Crane Fly",
+      "image": "https://uwm.edu/field-station/wp-content/uploads/sites/380/2016/10/phantom-crane-fly14-7rz.jpg",
+      "page": "https://uwm.edu/field-station/bug-of-the-week/phantom-crane-fly/",
+      "novelty": 0.8,
+      "notes": "They fly with air bladders not wings"
+    }
   ]
 }
